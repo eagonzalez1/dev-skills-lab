@@ -5,7 +5,6 @@ import path from 'path'
 import { fileURLToPath } from 'url'
 import logger from 'morgan'
 import methodOverride from 'method-override'
-
 import('./config/database.js')
 
 // import routers
