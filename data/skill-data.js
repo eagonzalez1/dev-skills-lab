@@ -1,4 +1,4 @@
-
+import { Skill } from "../models/skills.js"
 
 const skills = [
   {text: 'HTML/CSS', got: true, _id: 125223},
